@@ -5,7 +5,7 @@ We are excited to announce that the release is coming soon! Stay tuned for more 
 
 ## Exciting News!
 
-### 2025.03.28 Frontend Demo: What you can expected to boost your Econ research!]
+### 2025.03.28 Frontend Demo: What you can expected to boost your Econ research!
 
 
 ![image](https://github.com/user-attachments/assets/cc6fad1c-cbd8-4a0d-8664-0365dc18e9c7)
