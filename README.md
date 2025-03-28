@@ -1,5 +1,5 @@
 # Agentic Econ Lab v0.1
-An AI-Powered Labartory for Economics Research with Agentic Workflows
+An AI-Powered Laboratory for Economics Research with Agentic Workflows
 
 We are excited to announce that the release is coming soon! Stay tuned for more updates.
 
@@ -17,7 +17,6 @@ We are excited to announce that the release is coming soon! Stay tuned for more 
 ![image](https://github.com/user-attachments/assets/ca841604-9f8b-40e8-ac17-ab3ec5bf4ab4)
 
 ![image](https://github.com/user-attachments/assets/d45afe5c-2575-464b-b9db-80e256ec0b85)
-
 
 ![image](https://github.com/user-attachments/assets/71d154a4-d6b7-4932-94ad-4b3a62c29a3a)
 
