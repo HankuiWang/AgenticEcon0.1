@@ -1,8 +1,9 @@
-# Agentic Econ Workflow - Replication Codebase
+# Agentic Econ Workflow - Agents Samples Codes
 
-This repository contains the replication code for the "Agentic Econ Workflow" research project, implementing an AI agent-based system for automated economic research workflows. The system consists of four specialized teams that work together to conduct comprehensive economic research.
 
-## 🏗️ Architecture OverviewThe system is built around four specialized AI agent teams, each handling different aspects of economic research:
+## 🏗️ Architecture Overview
+
+The system is built around four specialized AI agent teams, each handling different aspects of economic research:
 
 1. **DataTeam** - Data discovery, retrieval, cleaning, and preprocessing
 2. **IdeationTeam** - Research idea generation, refinement, and contextualization
@@ -291,5 +292,3 @@ python IdeationTeam.py --debug --mode automatic
 ```
 
 ---
-
-*This replication codebase supports the research presented in "Agentic Econ Workflow: AI Agent-Based Economic Research Automation" and provides a foundation for extending automated economic research capabilities.*
