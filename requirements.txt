@@ -1,0 +1,46 @@
+python-dotenv>=1.0.0
+
+# AutoGen v0.7.1 packages
+autogen-agentchat==0.7.1
+autogen-core==0.7.1
+autogen-ext[openai]==0.7.1
+
+# LLM and API clients
+openai>=1.99.9
+
+# Data processing and analysis
+numpy>=1.24.0
+pandas>=2.0.0
+sympy>=1.12.0
+matplotlib>=3.7.0
+
+# Web scraping and data collection
+firecrawl-py==2.7.1
+requests>=2.31.0
+aiohttp>=3.8.0
+
+# Research and academic tools
+arxiv
+scholarly
+
+# Economic data sources
+fredapi>=0.5.0
+pandas-datareader>=0.10.0
+yfinance>=0.2.0
+
+# Async and concurrency
+asyncio-throttle>=1.0.0
+aiofiles>=23.0.0
+
+# Testing and development
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.10.0
+
+# Logging and monitoring
+structlog==25.4.0
+rich>=13.0.0
+
+# Type checking and validation
+pydantic>=2.0.0
+typing-extensions>=4.5.0
